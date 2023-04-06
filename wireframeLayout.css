@@ -131,3 +131,10 @@ footer {
   background-color: #e50914;
   text-align: center;
 }
+
+.SLIDESHOW-SECT {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+
+}
